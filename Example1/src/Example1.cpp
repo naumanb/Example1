@@ -11,6 +11,6 @@ using namespace std;
 
 int main() {
 	cout << "BME 506" << endl; // prints BME 506
-	cout << "Welcome" << endl;
+	cout << "gghWelcome" << endl;
 	return 0;
 }
